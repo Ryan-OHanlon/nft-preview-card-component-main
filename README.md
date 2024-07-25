@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-flexbox-and-hover-Jc9as9jvLl](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-flexbox-and-hover-Jc9as9jvLl)
 - Live Site URL: [https://ryan-ohanlon.github.io/nft-preview-card-component-main/](https://ryan-ohanlon.github.io/nft-preview-card-component-main/)
 
 ## My process
